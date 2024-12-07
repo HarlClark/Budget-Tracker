@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-07 22:14:56",
+        "amount": 20000.0,
+        "category": "salary",
+        "type": "income"
+    },
+    {
+        "id": 2,
+        "date": "2024-12-07 22:15:14",
+        "amount": 40.0,
+        "category": "game",
+        "type": "expense"
+    }
+]
